@@ -1,5 +1,5 @@
 ﻿Ceci est un document vierge
 
-Avec une image
+Avec une autre image
 
-![Nikon D750 High Resolution Image Samples - Photography Life](Aspose.Words.32fde1d3-6c22-4e84-ae01-5800e291b431.001.jpeg)
+![Cliquez ici pour afficher et télécharger le FOND D'ECRAN](Aspose.Words.9a9059ab-3493-42ae-b01f-d2be71699b68.001.jpeg)
